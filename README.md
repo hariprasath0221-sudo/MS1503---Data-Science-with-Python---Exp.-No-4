@@ -88,8 +88,8 @@ plt.show()
 
 ## Output
 
-![Yearly Revenue vs Expenses (2017-2023)](<img width="1200" height="750" alt="output" src="https://github.com/user-attachments/assets/458b4c5b-70ca-4fec-88dd-c69fe59b8f32" />
-)
+<img width="1200" height="750" alt="output" src="https://github.com/user-attachments/assets/2e026c58-a181-482a-a5a5-753df08d9930" />
+
 
 ## Result
 
